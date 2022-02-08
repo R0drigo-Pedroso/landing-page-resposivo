@@ -1,4 +1,4 @@
-# Landing Page Responsivo
+# Landing Page Responsivo (Flexbox)
 ## Projeto ThreeCode - Você Conectado
 
 #### Projeto desenvolvido com HTML e CSS utilizando Flexbox.
